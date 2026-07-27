@@ -1,0 +1,16 @@
+.env
+.env.*
+*.pem
+*.key
+~$*.docx
+~$*.xlsx
+~$*.pptx
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+drafts/
+private/
+temp/
