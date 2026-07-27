@@ -19,10 +19,10 @@
 
 Assign who is Responsible, Accountable, Consulted and Informed for:
 
-- User onboarding
-- User termination
-- Security-incident reporting
-- Vendor onboarding
-- Risk acceptance
-- Policy approval
-- Backup testing
+- User onboarding : Human Resources
+- User termination : Clinical Director
+- Security-incident reporting : IT Manager
+- Vendor onboarding : Clinical Director
+- Risk acceptance : IT Manager
+- Policy approval : Compliance Officer
+- Backup testing : Operations Manager
