@@ -41,7 +41,7 @@ To provide accessible, coordinated and patient-centred virtual healthcare while 
 ## Technology Environment
 
 - Cloud-hosted electronic health-record system
-- Microsoft 365 or Google Workspace
+- Google Workspace
 - Video-consultation platform
 - Online appointment scheduler
 - Cloud file storage
@@ -84,9 +84,9 @@ To provide accessible, coordinated and patient-centred virtual healthcare while 
 
 ## Assumptions Requiring Review
 
-- [ ] Confirm workforce size
-- [ ] Select productivity platform
+- [ ] Workforce size : 25 employees and contract
+- [ ] Productivity platform : Google Workspace
 - [ ] Define data-hosting locations
-- [ ] Define patient volume
+- [ ] Patient volume : Approximately 1500
 - [ ] Define system ownership
 - [ ] Define vendor responsibilities
