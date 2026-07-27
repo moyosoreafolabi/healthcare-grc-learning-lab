@@ -68,3 +68,7 @@ To create an applied cybersecurity GRC assessment for Meridian Virtual Health, a
 - Vendor-risk documentation
 - Healthcare security analysis
 - Executive report and remediation plan
+
+## Scope Rationale
+
+The assessment focuses on the people, systems, vendors and processes that create, access, transmit, store or protect healthcare information.
