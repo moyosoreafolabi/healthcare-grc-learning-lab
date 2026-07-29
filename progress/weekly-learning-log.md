@@ -8,9 +8,9 @@ Understand why effective GRC work begins with the organisation, its services, in
 
 ### Materials Studied
 
-- [ ] Cisco lesson:
-- [ ] Textbook chapter:
-- [ ] Video lesson:
+- [ ] Cisco lesson: Access control models
+- [ ] Textbook chapter: Module 3 of Network Defense Course
+- [ ] Video lesson: Lab Video - Configure Authentication and Authorization in Linux
 - [ ] Official framework material:
 
 ### Concepts Learned
